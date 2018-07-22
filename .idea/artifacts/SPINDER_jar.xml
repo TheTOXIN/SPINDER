@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SPINDER:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SPINDER_jar</output-path>
+    <root id="archive" name="SPINDER.jar">
+      <element id="module-output" name="SPINDER" />
+    </root>
+  </artifact>
+</component>
